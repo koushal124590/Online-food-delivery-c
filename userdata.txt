@@ -1,0 +1,24 @@
+-----------------------------
+Username: koushal
+Phone: 9542265255
+Address: koushal
+Email: koushal@gm,a
+-----------------------------
+
+
+----- ORDER DETAILS -----
+Total Amount: Rs.935.80
+Pizza x4
+------------------------
+-----------------------------
+Username: person
+Phone: 7837475883
+Address: near isab institute
+Email: test123@gmail.com
+-----------------------------
+
+
+----- ORDER DETAILS -----
+Total Amount: Rs.411.85
+Burger x3
+------------------------
